@@ -1,2 +1,2 @@
-# Myocardial-Infarction-Prediction Using Machine Learning 
+# Myocardial Infarction Prediction Using Machine Learning 
 
